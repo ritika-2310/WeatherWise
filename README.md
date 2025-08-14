@@ -4,7 +4,7 @@ A simple, interactive weather application built with HTML, CSS, and JavaScript, 
 🚀 Features
 <br><br>
 Search any city for live weather data.
-<br><br>
+<br>
 Displays temperature, humidity, and description.
 <br>
 Instant updates without page reload.
@@ -69,5 +69,4 @@ API may return errors for misspelled or unavailable city names.
 <br><br>
 Credits
 <br><br>
-OpenWeatherMap – Weather data provider<br>
 Developer: Ritika Bhasin, B.Tech IT Student, IPU (Batch 2028)<br>
