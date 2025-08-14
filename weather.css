@@ -1,0 +1,43 @@
+body{
+    background-color :rgb(252, 232, 177)
+}
+#heading{
+    font-size : 40px;
+    color : white;
+    text-align : center;
+    background-color : black;
+    border : 3px solid white;
+    text-transform : capitalize;
+    font-family : 'Comic Sans MS',cursive;
+    padding : 10px;
+}
+#cityinput{
+    font-size : 30px;
+    margin-top : 30px;
+    margin-left : 550px;
+}
+#search{
+    font-size : 30px;
+    margin-top : 15px;
+    margin-left : 640px;
+    background-color : cyan;
+    border-radius : 15px;
+}
+#search:hover{
+    background-color : pink;
+    cursor : pointer;
+}
+#container{
+    height : 300px;
+    width : 400px;
+    background-color :rgb(221, 249, 158);
+    border : 2px solid black;
+    border-radius : 10px;
+    font-size : 30px;
+    font-family : 'Comic Sans MS',cursive;
+    text-transform : capitalize;
+    text-align : center;
+    margin-top : 25px;
+    margin-left : 540px;
+    padding-top : 25px;
+}
